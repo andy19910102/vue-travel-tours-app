@@ -1,0 +1,147 @@
+[
+    {
+        "id": "1",
+        "name": "War Remnants Museum",
+        "review": {
+            "score": 4.5,
+            "count": 25396
+        },
+        "thumbnail": "https://i.imgur.com/puv3XiA.jpg",
+        "description": "War Remnants Museum is a unit under the Department of Culture, Sports and Tourism Ho Chi Minh City. Located in the museum system of Vietnam, the museum for world peace and a member of the World Council of Museums (ICOM), the War Remnants Museum, the Museum of thematic research, collection , storage, preservation and display of the material, photographs, artifacts on the evidence of the crime and the consequences of the war that the invasion force has caused to Vietnam.Museum store more than 20,000 documents, exhibits and films, in which more than 1,500 documents, artifacts, films have been applied to introduce in eight thematic exhibition frequently. In 35 years, the Museum has welcomed over 15 million visitors at home and abroad. Currently with about 500,000 visitors each year, the War Remnants Museum is one of the only cultural tourism to attract high public credibility at home and abroad.",
+        "category": [
+            "2"
+        ],
+        "location": {
+            "country": "Vietnam",
+            "city": "Ho Chi Minh City"
+        },
+        "createdAt": 1632844800000
+    },
+    {
+        "id": "2",
+        "name": "The Independence Palace",
+        "review": {
+            "score": 3.5,
+            "count": 35493
+        },
+        "thumbnail": "https://i.imgur.com/sOo57Lj.jpg",
+        "description": "“From Norodom Palace to Independence Palace 1868-1966” explores the century-long history of the building that once served as the seat of the French colonial government in Cochinchina. In 1954, this building was renamed Independence Palace. It subsequently witnessed many dramatic episodes in the rise and decline of the government of Ngo Dinh Diem, the founding leader of the Republic of Vietnam.",
+        "category": [
+            "2"
+        ],
+        "location": {
+            "country": "Vietnam",
+            "city": "Ho Chi Minh City"
+        },
+        "createdAt": 1635782400000
+    },
+    {
+        "id": "3",
+        "name": "Fjellheisen Tromsø",
+        "review": {
+            "score": 4,
+            "count": 1545
+        },
+        "thumbnail": "https://i.imgur.com/0WqJKBd.jpg",
+        "description": "The Cable Car is Tromsø’s most popular tourist destination. It runs from Solliveien in Tromsdalen up to the mountain ledge Storsteinen. The lower station is located on Tromsø’s mainland, 50 m above sea level, while the upper station, Fjellstua, is situated at an altitude of 421 m above sea level. The trip up takes just four minutes. From the large outdoor terrace, you can enjoy the spectacular panoramic view of Tromsø and the virtually endless sight of islands, fjords, mountains and the open sea. Fjellheisen was built in 1961 by Brød­rene Jakob­sens Rederi, a local shipping company that was a major player in arctic hunting/trapping, fishing and expeditions to the arc­tic and Antarctic. The gondolas proudly convey this tradition by bearing the shipping company’s symbols: the polar bear and the seal.",
+        "category": [
+            "3"
+        ],
+        "location": {
+            "country": "Norway",
+            "city": "Tromso"
+        },
+        "createdAt": 1639238400000
+    },
+    {
+        "id": "4",
+        "name": "The Arctic Cathedral",
+        "review": {
+            "score": 4,
+            "count": 3193
+        },
+        "thumbnail": "https://i.imgur.com/yHStVgf.jpg",
+        "description": "Tromsdalen Church or the Arctic Cathedral (Norwegian: Tromsdalen kirke, Ishavskatedralen) is a parish church of the Church of Norway in Tromsø Municipality in Troms og Finnmark county, Norway. It is located in the Tromsdalen valley on the east side of the city of Tromsø. It is the church for the Tromsøysund parish which is part of the Tromsø domprosti (arch-deanery) in the Diocese of Nord-Hålogaland. The modern concrete and metal church was built in a long church style in 1965 using plans drawn up by architect Jan Inge Hovig. The church seats about 600 people.",
+        "category": [
+            "2",
+            "1"
+        ],
+        "location": {
+            "country": "Norway",
+            "city": "Tromso"
+        },
+        "createdAt": 1639497600000
+    },
+    {
+        "id": "5",
+        "name": "The Polar Museum",
+        "review": {
+            "score": 4,
+            "count": 2588
+        },
+        "thumbnail": "https://i.imgur.com/IeCgSeN.jpg",
+        "description": "Following its establishment as the “Gateway to the Arctic” in the late 19th century, Tromsø became a base for many polar expeditions. The Polar Museum preserves and conveys stories related to this aspect of the history of Tromsø and the Arctic. The Polar Museum’s permanent exhibitions deal with sealing, overwintering trapping, the stories of famous trappers such as Henry Rudi and Wanny Wolstad, the expeditions of Fridtjof Nansen and Roald Amundsen. Lovely situated in an 1830s warehouse on the seafront. Museum shop.",
+        "category": [
+            "2"
+        ],
+        "location": {
+            "country": "Norway",
+            "city": "Tromso"
+        },
+        "createdAt": 1639756800000
+    },
+    {
+        "id": "6",
+        "name": "Kiyomizu-dera Temple",
+        "review": {
+            "score": 4,
+            "count": 35031
+        },
+        "thumbnail": "https://i.imgur.com/TqdCr9E.jpg",
+        "description": "This most-visited temple in Kyoto was built to honor Kannon, the goddess of mercy. It's beautiful hillside location offers spectacular views of the city and valley below.",
+        "category": [
+            "4"
+        ],
+        "location": {
+            "country": "Kyoto Prefecture",
+            "city": "Japan"
+        },
+        "createdAt": 1640188800000
+    },
+    {
+        "id": "7",
+        "name": "Fushimi Inari-taisha Shrine",
+        "review": {
+            "score": 4.5,
+            "count": 31234
+        },
+        "thumbnail": "https://i.imgur.com/jMwbkVz.jpg",
+        "description": "This shrine is one of many located throughout Japan that was built to honor Inari, the Shinto god of rice.",
+        "category": [
+            "4"
+        ],
+        "location": {
+            "country": "Kyoto Prefecture",
+            "city": "Japan"
+        },
+        "createdAt": 1642867200000
+    },
+    {
+        "id": "8",
+        "name": "Senso-ji Temple",
+        "review": {
+            "score": 4,
+            "count": 15396
+        },
+        "thumbnail": "https://i.imgur.com/oKU8N04.jpg",
+        "description": "According to legend, two brothers kept trying to return a statue of Kannon, the goddess of mercy, to the Sumida River only to have it returned to them the next day. This temple located in Tokyo's Asakusa district was built to honor her.",
+        "category": [
+            "4"
+        ],
+        "location": {
+            "country": "Tokyo Prefecture",
+            "city": "Japan"
+        },
+        "createdAt": 1644854400000
+    }
+]

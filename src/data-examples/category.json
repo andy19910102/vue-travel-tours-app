@@ -1,0 +1,34 @@
+{
+    "1": {
+        "id": "1",
+        "name": "Church",
+        "iconClassList": [
+            "fas",
+            "fa-church"
+        ]
+    },
+    "2": {
+        "id": "2",
+        "name": "Landmark",
+        "iconClassList": [
+            "fas",
+            "fa-landmark"
+        ]
+    },
+    "3": {
+        "id": "3",
+        "name": "Cable car",
+        "iconClassList": [
+            "fas",
+            "fa-tram"
+        ]
+    },
+    "4": {
+        "id": "4",
+        "name": "Shrine",
+        "iconClassList": [
+            "fas",
+            "fa-torii-gate"
+        ]
+    }
+}
